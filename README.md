@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DidoeS14
+- 👋 Hi, I’m Dido
 - 👀 I’m interested in gaming design
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on on my indie games
