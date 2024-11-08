@@ -7,7 +7,7 @@
 
 <!-- [My Portfolio Page](#)  Portfolio to be added when is getting hosted!-->
 
-I’m a PhD student 🎓  in Information Technology with a strong academic foundation in Software Engineering (Bachelor’s) and Artificial Intelligence (Master’s), all pursued at Burgas Free University 🏛. Throughout my academic and professional journey, I’ve developed a deep, hands-on understanding of a wide range of technologies.
+I’m a PhD student 🎓  in Information Technology with a strong academic foundation in Software Engineering (Bachelor’s) and Artificial Intelligence (Master’s), all pursued at [Burgas Free University](https://www.bfu.bg/en) 🏛. Throughout my academic and professional journey, I’ve developed a deep, hands-on understanding of a wide range of technologies.
 
 <details>
 <summary>More details 🔍</summary>
