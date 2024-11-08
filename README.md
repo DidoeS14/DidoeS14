@@ -13,7 +13,7 @@ I’m a PhD student 🎓  in Information Technology with a strong academic found
 <summary>More details 🔍</summary>
 💡 I'm a passionate learner, I’m constantly exploring new fields, embracing new challenges, and working across different technologies. My approach is simple: strive to be better than yesterday. ✨
 
-👨🏻‍💻 My GitHub page includes several small side projectsthat I created in the gaps between work, studies, and my personal game development endeavors. While most of my game projects remain private, I’m excited to share my public repositories, which are free to download and reference if you find them helpful.
+👨🏻‍💻 My GitHub page includes several small side projects that I created in the gaps between work, studies and my personal game development endeavors. While most of my game projects remain private, I’m excited to share my public repositories, which are free to download and reference if you find them helpful.
 
 </details>
 <br>
