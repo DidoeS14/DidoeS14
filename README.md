@@ -50,15 +50,6 @@ Thanks for stopping by, and feel free to reach out if you’d like to connect! �
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
----
-
-<h2 align="center">My Stats 🔥</h2>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DidoeS14&theme=ocean_dark" alt="GitHub Streak" /></a>
-</div>
-
-
 
 
 <!-- <h2 align="center">🔗 Links</h2>
